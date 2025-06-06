@@ -55,7 +55,6 @@ Churn is one of the biggest threats in telecom, and I wanted to tackle it using 
 ---
 
 ##  Key Visual Insights
-
 - **More than 3 service calls → higher churn risk**  
   ![Customer Service Calls](images/customer_service_calls_vs_churn.png)
 
@@ -67,6 +66,7 @@ Churn is one of the biggest threats in telecom, and I wanted to tackle it using 
 
 - **Voice mail users are more loyal**  
   ![Voicemail](images/voicemail_vs_churn.png)
+
 
 ---
 
